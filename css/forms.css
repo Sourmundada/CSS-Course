@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    margin: 30px;
+}
+
+.form-wrap {
+    margin: 30px;
+    width: 500px;
+}
+
+.form-wrap input, .form-wrap textarea, .form-wrap select {
+    width: 100%;
+    padding: 8px 15px;
+    font-size: 18px;
+}
+
+.form-wrap input:focus, .form-wrap textarea:focus, .form-wrap select:focus {
+    outline: none;
+    border: 1px solid red;
+}

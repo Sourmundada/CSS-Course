@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    border: 2px solid #333;
+    width: 500px;
+    margin: 10px 15px;
+    padding: 20px 20px;
+    font-family: cursive;
+    color: white;
+    background: green;
+}
+
+.box h1 {
+    margin-bottom: 10px;
+}

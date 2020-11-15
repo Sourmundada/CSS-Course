@@ -1,0 +1,28 @@
+body {
+    font-family: cursive;
+}
+
+.box {
+    width: 400px;
+    height: 200px;
+    background: green;
+    color: white;
+    font-family: cursive;
+}
+
+.box h1 {
+    font-size: 30px;
+}
+
+.box p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#box {
+    background: url('../img/img-1.jpeg') no-repeat center;
+    width: 300px;
+    height: 400px;
+    color: white;
+}
+

@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: cursive;
+}
+
+li {
+	display: inline;
+	padding: 20px;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+.box {
+	background: #f4f4f4;
+	padding: 10px;
+	display: inline-block;
+	width: 200px;
+}

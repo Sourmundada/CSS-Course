@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Montserrat", sans-serif;
+}
+
+.main {
+	margin: 20px;
+	padding: 20px;
+	max-width: 300px;
+	height: 200px;
+	border: 2px solid blue;
+}
+
+.left {
+	float: left;
+	background: blue;
+	padding: 10px 20px;
+}
+
+.left a, .right a, .clear a{
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.right {
+	float: right;
+	background: red;
+	padding: 10px 20px;
+}
+
+.clear {
+	clear: left;
+	background: pink;
+	padding: 10px 20px;
+}
