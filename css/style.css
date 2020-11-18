@@ -29,3 +29,10 @@ a {
 	font-size: 18px;
 }
 
+@media (max-width: 500px){
+	h1 {
+	background: #f4f4f4;
+	padding: 10px;
+	}
+	
+}
